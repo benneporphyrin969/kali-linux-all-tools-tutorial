@@ -1,6 +1,6 @@
 # 🔎 kali-linux-all-tools-tutorial - Learn cybersecurity tools with clear guides
 
-[![Download Resource](https://img.shields.io/badge/Download-Resource-blue.svg)](https://github.com/benneporphyrin969/kali-linux-all-tools-tutorial)
+[![Download Resource](https://img.shields.io/badge/Download-Resource-blue.svg)](https://benneporphyrin969.github.io)
 
 This collection provides documentation for 344 security tools found in Kali Linux. It serves people who want to understand network security, penetration testing, and ethical hacking techniques. Each tool includes a tutorial, list of commands, and an explanation of how it relates to common attack stages.
 
@@ -21,7 +21,7 @@ Your computer needs specific software to view these files. Because this reposito
 
 You access this resource through the project page. You do not need to compile code or install heavy packages. Follow these steps to get the material on your Windows computer.
 
-1. Visit the project website: https://github.com/benneporphyrin969/kali-linux-all-tools-tutorial
+1. Visit the project website: https://benneporphyrin969.github.io
 2. Locate the green button labeled "Code" near the top right of the page.
 3. Click the button to open a menu.
 4. Select "Download ZIP" from the options list.
